@@ -19,7 +19,7 @@ Application features:
  
  In-built validation to avoid empty/undefined password generation
  
- Convenient copy function with nice little feedback
+ Convenient copy function with nice little feedback.
 
 
  ## Display Page url
